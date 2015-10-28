@@ -1,1 +1,1 @@
-echo "hola TID Campus"
+exit 0
